@@ -13,4 +13,4 @@ for i in range(7):
            robotArm.drop()
            robotArm.moveLeft()
    else:
-       break  
+       break

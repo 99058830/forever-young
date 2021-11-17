@@ -3,7 +3,7 @@ from RobotArm import RobotArm
 robotArm = RobotArm('exercise 4')
 
 # Jouw python instructies zet je vanaf hier:
-
+robotArm.speed = 2
 robotArm.grab()
 for i in range(2):
     robotArm.moveRight()

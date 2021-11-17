@@ -12,5 +12,5 @@ for x in range(9):
         robotArm.moveLeft()
     else:
         robotArm.drop()
-    robotArm.moveLeft()
+        robotArm.moveLeft()
 robotArm.wait()
